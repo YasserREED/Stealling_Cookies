@@ -35,9 +35,19 @@ YasserREED> Python3 -m Server.http 3333 <- Any Port You Like!
 
 # Wirte PHP Code To Take the Cookie:
 
-1- make the get.php:
+1- go to html File:
+
+[~] YasserREED> cd  /var/www/html
+
+2- make File get.php:
+
+YasserrEED> sudo gedit get.php
+
+// Code with the File Just Copy it 
 
 2- make log.txt
+
+YasserrEED> sudo touch log.txt
 
 3- give all Privileges:
 
