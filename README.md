@@ -48,7 +48,7 @@ YasserrEED> sudo gedit get.php
 
 YasserRED> sudo touch log.txt
 
-3- give all Privileges:
+3- Give all Privileges:
 
 YasserREED> sudo chmod 777 log.txt
 
