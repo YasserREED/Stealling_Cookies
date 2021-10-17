@@ -1,4 +1,4 @@
-# Stealling_Cookies
+# Stealling Cookies
 
 All Payload that used from this Youtube Video:
 
